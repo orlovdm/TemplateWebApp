@@ -1,6 +1,7 @@
 {
-    "name": "some-web-app",
+    "name": "web-app-template",
     "version": "1.0.0",
+    "description": "Template of web application for develoment",
     "main": "index.js",
     "scripts": {
         "start": "webpack serve --mode development",
